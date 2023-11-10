@@ -1,2 +1,3 @@
-#BlogIA[](https://fabiomode2.github.io/BlogIA/)
+#BlogIA
+[link](https://fabiomode2.github.io/BlogIA/)
 Página web hecha como tarea
